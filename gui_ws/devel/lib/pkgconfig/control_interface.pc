@@ -1,0 +1,8 @@
+prefix=/home/vboxuser/gui_ws/devel
+
+Name: control_interface
+Description: Description of control_interface
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

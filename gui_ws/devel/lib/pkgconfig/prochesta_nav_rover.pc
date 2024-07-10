@@ -1,0 +1,8 @@
+prefix=/home/vboxuser/gui_ws/devel
+
+Name: prochesta_nav_rover
+Description: Description of prochesta_nav_rover
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

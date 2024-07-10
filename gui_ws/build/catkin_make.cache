@@ -1,0 +1,2 @@
+combined_gui:control_interface:prochesta_arm_motion:prochesta_nav_rover
+-DCATKIN_DEVEL_PREFIX=/home/vboxuser/gui_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vboxuser/gui_ws/install -G Unix Makefiles
